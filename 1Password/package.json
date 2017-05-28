@@ -1,0 +1,23 @@
+{
+  "name": "1Password",
+  "version": "1.0.0",
+  "description": "1Password",
+  "main": "index.js",
+  "author": "Ronald Bell <ronald@rdbell.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://my.1password.com",
+    "serviceName": "1Password",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
